@@ -1,1 +1,1 @@
-*/5 * * * * /send_emails.py
+* * * * * /usr/bin/python3 ./send_emails.py
